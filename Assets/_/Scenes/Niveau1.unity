@@ -29073,7 +29073,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 79261f24a0fca9c4b83b84d09aa74dc8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Resource
-  startValue: 5
+  startValue: 0
   maximum: 0
   goal: 25
   variable: {fileID: 11400000, guid: 5e6c7e5b74bb1b340b30ed6572757d39, type: 2}
