@@ -812,8 +812,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: RETOUR AU MENU
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 02948e6b7b52da149a2b943f156c63ba, type: 2}
-  m_sharedMaterial: {fileID: -4760234991651550961, guid: 02948e6b7b52da149a2b943f156c63ba, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: e5bd10a66126c5b4d81b5ad89fbd26ff, type: 2}
+  m_sharedMaterial: {fileID: 8035767776865521934, guid: e5bd10a66126c5b4d81b5ad89fbd26ff, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1376,8 +1376,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: RECOMMENCER
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 02948e6b7b52da149a2b943f156c63ba, type: 2}
-  m_sharedMaterial: {fileID: -4760234991651550961, guid: 02948e6b7b52da149a2b943f156c63ba, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: e5bd10a66126c5b4d81b5ad89fbd26ff, type: 2}
+  m_sharedMaterial: {fileID: 8035767776865521934, guid: e5bd10a66126c5b4d81b5ad89fbd26ff, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1766,8 +1766,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: "\xC9CHEC"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 02948e6b7b52da149a2b943f156c63ba, type: 2}
-  m_sharedMaterial: {fileID: -4760234991651550961, guid: 02948e6b7b52da149a2b943f156c63ba, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: e5bd10a66126c5b4d81b5ad89fbd26ff, type: 2}
+  m_sharedMaterial: {fileID: 8035767776865521934, guid: e5bd10a66126c5b4d81b5ad89fbd26ff, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
