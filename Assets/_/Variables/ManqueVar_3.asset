@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8b19a3fc3bb9540dc803161f015a4f79, type: 3}
-  m_Name: NotesVar
+  m_Name: ManqueVar_3
   m_EditorClassIdentifier: ColliderEventSystem::ColliderEventSystem.IntVariable
   m_Id: 0474471f63a34ac293758300ca269211
   Persistent: 0
