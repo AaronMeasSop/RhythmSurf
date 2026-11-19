@@ -20,4 +20,5 @@ Unity - Starter Assets - CES
 ## Crédits
 
 | Asset | Type | Auteur | Licence | Source |
-| Michroma |
+| --- | --- | --- | --- | --- |
+| Girl Rei | Musique | MikitoP | Tous droits réservés (Directives d'utilisation non commerciale de mikitoP) | https://www.youtube.com/watch?v=JW3N-HvU0MA
